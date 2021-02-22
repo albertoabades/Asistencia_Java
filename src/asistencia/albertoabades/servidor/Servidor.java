@@ -43,7 +43,6 @@ import asistencia.albertoabades.mensajes.Respuestas;
 import asistencia.albertoabades.funciones.Cifrado_RSA;
 
 public class Servidor {
-	//Its ok
 	private static final int CLIENT_PORT = 9090;
 	private static final int HANDLER_THREADS_NUMBER = 1;
 	private static final int WAIT_SECONDS = 10;
